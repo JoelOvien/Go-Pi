@@ -1,0 +1,2 @@
+Marshalling in go refers to return the json encoding of a value--similar to json.encode() in flutter
+Unmarshalling refers to returning the json decoded value of a value--similar to json.decode() in flutter
